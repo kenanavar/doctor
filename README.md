@@ -1,8 +1,9 @@
-Neslı tükenmemiş en akıllı kuşlar 
-![ela](https://user-images.githubusercontent.com/62503159/103458540-8537c080-4d09-11eb-8579-209c3c8979d7.jpg)
+NESLİ TÜKENEN KUŞLAR HANGİLERİDİR VE NEREYE GÖÇ EDERLER <br>
 
-![havva](https://user-images.githubusercontent.com/62503159/103458565-ad272400-4d09-11eb-8876-df406d7ab37d.jpg)
-
-![yunus](https://user-images.githubusercontent.com/62503159/103458575-ca5bf280-4d09-11eb-8037-a1c0532705a2.jpg)
-
-![ozge](https://user-images.githubusercontent.com/62503159/103458581-d942a500-4d09-11eb-8748-56a443136320.jpg)
+1.Yelkovan ( puffinus yelkouan) : Dünya ölçeğinde nesli tehlikede altında  olan türdür. Akdeniz ülkelerinde ve Türkiye’de bulunur. Türkiye boğazlarını yoğun olarak kullanırlar. Karadenizden  Marmaraya  veya  Marmaradan Karadenize göç ederler.<br>
+2)Turna (Grus grus):  Türkiye’de yaşamaktadır. Kültür mirasımız olan bu türün nesli hızla azalmaktadır. Büyük çoğunluğu Karadenizin kuzeyinden gelen göçmen kuşlardır.<br>
+3) Toy ( atis tarda): Aşırı avlanma sonucu bu tür yok olma tehlikesindedir ve avlanması yasaktır. Kışı güney Ukrayna ve üreme bölgelerinin güneydoğusunda Suriye’den kuzey Irak’a doğuda İran’a kadar, Güneydoğu Rusya’da ve Ortaasya’da Tacikistan’da geçirirler.<br>
+4) Küçük Akbaba (Neophion percnopterus): Afrika göçmeni olan bu tür doğal alanlarının yok olmasıyla sayıları hızla tükenmektedir. Balkanlar ve Anadolu2da kuluçkaya2ya yatan her yıl Afrika’ ya  Türkiye üzerinden göç ederler.<br>
+5) Kelaynak( geranticus eremita): Nesli tükenmesine çok az kalmış olan önmeli türlerimizdendir. Üreme  dönemleri olan Şubat-Temmuz aylarını Birecikte(6 ay), kış dönemini ise Eritre, Etiyopya, Yemen ve Suudi Arabistan’da  geçirirler. <br>
+6) Yaz ördeği(marmaronetta angustirostris): Bu tür  üreme yerleri olarak tatlı olmayan su göllerini tercih ederler ancak üreme alnları son yıllarda hızla azalmıştır. Bu yüzden dolayı nesilleri tükenmek üzere olan türler arasındadır.  Bu kuş türü sıcak  güney bölgelere göç etmektedirler.<br>
+7) Dikkuyruk(oxyura leucacephala): Yaşam alanlarının yok olmasıyla  kendilerininde yok olma tehlikesi olan ördek türüdür. İspanya ve kuzey Afrika’da ürerler. Türkiye’de ise kışın %66’ sından çoğu Burdur gölümüzde bulunmaktadır.
