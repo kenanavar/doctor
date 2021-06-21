@@ -1,22 +1,21 @@
 <html>
 <body>
 <hr>
-
-1031 Budapest, Nimród utca 3. Adresinin aile doktoru.
+1031 Budapest, Nimród utca 3. Adresinin aile doktoru.<br> 
   
-Dr. Schmidt Andrea
+<b> Dr. Schmidt Andrea<b> <br> 
   
-Telefon: (+36 1) 454-0466
+Telefon: (+36 1) 454-0466<br> 
 
 E-mail: drschmidt.andrea@gmail.com <br> 
-Adres: 1031 Budapest, Monostori út 27.
+Adres: 1031 Budapest, Monostori út 27.<br> 
 
-Nitelik: pratisyen hekim, dahiliye
+Nitelik: pratisyen hekim, dahiliye<br> 
 
-Çalışma saatleri:
+Çalışma saatleri:<br> 
 
 Pazartesi: 08:00 - 12:00<br> 
 Salı: 15:00 - 19:00<br> 
 Çarşamba: 08:00 - 12:00<br> 
 Perşembe: 15:00 - 19:00<br> 
-Cuma: Çift hafta: 12.00 - 14.00, tek hafta: 8.00 - 11.00
+Cuma: Çift hafta: 12.00 - 14.00, tek hafta: 8.00 - 11.00<br> 
