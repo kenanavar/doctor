@@ -1,6 +1,5 @@
 <html>
 <body>
-<hr>
 1031 Budapest, Nimród utca 3. Adresinin aile doktoru.<br> 
   <br> 
 <b> Dr. Schmidt Andrea</b> <br> 
