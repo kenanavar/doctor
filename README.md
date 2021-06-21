@@ -10,7 +10,7 @@ Telefon: (+36 1) 454-0466<br>
 E-mail: drschmidt.andrea@gmail.com <br> 
  <p>Adres :<a href="http://maps.google.com/?q=1031 Budapest, Monostori út 27."> 1031 Budapest, Monostori út 27.</a></p><br> 
 
-Nitelik: pratisyen hekim, dahiliye<br> 
+  Niteliği: pratisyen hekim, dahiliye<br> 
 
 Çalışma saatleri:<br> 
 
