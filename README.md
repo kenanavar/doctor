@@ -5,6 +5,7 @@
 <b> Dr. Schmidt Andrea</b> <br> 
     Niteliği: pratisyen hekim, dahiliye<br> 
   Telefon: (+36 1) 454-0466<br> 
+  <a href="+36 70 228 30 50"> +36 70 228 30 50</a>
 E-mail: drschmidt.andrea@gmail.com <br> 
  <p>Adres :<a href="http://maps.google.com/?q=1031 Budapest, Monostori út 27."> 1031 Budapest, Monostori út 27.</a></p>
 
